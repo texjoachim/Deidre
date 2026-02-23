@@ -8,8 +8,11 @@ Deidre hilft beim Lernen und Üben von Vokabeln.
 ### 1. Schritt: Dialogpartner anlegen
 
 Sprachmodell: ChatGPT 5 mini
+
 Schultyp: Hauptschule. Realschule, Gymnasium, Gesamschule, Weiterbildungskolleg, ...
+
 Klassenstufe: z.B. 5.-10. Klasse, 1.-4. Semester, ...
+
 Fach: Englisch, oder eine andere Fremdsprache
 
 ### 2. Schritt: Dialogpartner Einstellungen
